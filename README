@@ -1,0 +1,20 @@
+Dillon McHenry and Dave Lazauskas: GUItar Hero Project 3.2
+
+Project Summary:
+
+GUItar Hero is a rhythm game that allows users to choose a song, and press keys to correctly hit notes
+coming down a track.
+
+
+Running:
+
+Requires Java 12 (https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html)
+
+Be sure the resources folder exists in the same directory as the jar file.
+Run the file "GUItar-Hero.jar" with Java 12
+
+
+Compiling:
+
+No special requirements to compile.
+Simply compile with Main as the entry point.
